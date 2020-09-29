@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\bin\Debug\netcoreapp3.1\FileXML.exe
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\bin\Debug\netcoreapp3.1\FileXML.deps.json
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\bin\Debug\netcoreapp3.1\FileXML.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\bin\Debug\netcoreapp3.1\FileXML.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\bin\Debug\netcoreapp3.1\FileXML.dll
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\bin\Debug\netcoreapp3.1\FileXML.pdb
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\obj\Debug\netcoreapp3.1\FileXML.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\obj\Debug\netcoreapp3.1\FileXML.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\obj\Debug\netcoreapp3.1\FileXML.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\obj\Debug\netcoreapp3.1\FileXML.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\obj\Debug\netcoreapp3.1\FileXML.dll
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\obj\Debug\netcoreapp3.1\FileXML.pdb
+C:\Users\Admin\Desktop\Codegym\File-Serialization\FileXML\obj\Debug\netcoreapp3.1\FileXML.genruntimeconfig.cache
