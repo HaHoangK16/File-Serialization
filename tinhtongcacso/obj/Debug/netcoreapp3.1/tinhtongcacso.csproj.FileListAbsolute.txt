@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\bin\Debug\netcoreapp3.1\tinhtongcacso.exe
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\bin\Debug\netcoreapp3.1\tinhtongcacso.deps.json
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\bin\Debug\netcoreapp3.1\tinhtongcacso.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\bin\Debug\netcoreapp3.1\tinhtongcacso.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\bin\Debug\netcoreapp3.1\tinhtongcacso.dll
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\bin\Debug\netcoreapp3.1\tinhtongcacso.pdb
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\obj\Debug\netcoreapp3.1\tinhtongcacso.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\obj\Debug\netcoreapp3.1\tinhtongcacso.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\obj\Debug\netcoreapp3.1\tinhtongcacso.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\obj\Debug\netcoreapp3.1\tinhtongcacso.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\obj\Debug\netcoreapp3.1\tinhtongcacso.dll
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\obj\Debug\netcoreapp3.1\tinhtongcacso.pdb
+C:\Users\Admin\Desktop\Codegym\File-Serialization\tinhtongcacso\obj\Debug\netcoreapp3.1\tinhtongcacso.genruntimeconfig.cache
