@@ -1,0 +1,13 @@
+C:\Users\hntdahta\source\repos\Read-CSV-File\bin\Debug\netcoreapp3.1\Read-CSV-File.exe
+C:\Users\hntdahta\source\repos\Read-CSV-File\bin\Debug\netcoreapp3.1\Read-CSV-File.deps.json
+C:\Users\hntdahta\source\repos\Read-CSV-File\bin\Debug\netcoreapp3.1\Read-CSV-File.runtimeconfig.json
+C:\Users\hntdahta\source\repos\Read-CSV-File\bin\Debug\netcoreapp3.1\Read-CSV-File.runtimeconfig.dev.json
+C:\Users\hntdahta\source\repos\Read-CSV-File\bin\Debug\netcoreapp3.1\Read-CSV-File.dll
+C:\Users\hntdahta\source\repos\Read-CSV-File\bin\Debug\netcoreapp3.1\Read-CSV-File.pdb
+C:\Users\hntdahta\source\repos\Read-CSV-File\obj\Debug\netcoreapp3.1\Read-CSV-File.csprojAssemblyReference.cache
+C:\Users\hntdahta\source\repos\Read-CSV-File\obj\Debug\netcoreapp3.1\Read-CSV-File.AssemblyInfoInputs.cache
+C:\Users\hntdahta\source\repos\Read-CSV-File\obj\Debug\netcoreapp3.1\Read-CSV-File.AssemblyInfo.cs
+C:\Users\hntdahta\source\repos\Read-CSV-File\obj\Debug\netcoreapp3.1\Read-CSV-File.csproj.CoreCompileInputs.cache
+C:\Users\hntdahta\source\repos\Read-CSV-File\obj\Debug\netcoreapp3.1\Read-CSV-File.dll
+C:\Users\hntdahta\source\repos\Read-CSV-File\obj\Debug\netcoreapp3.1\Read-CSV-File.pdb
+C:\Users\hntdahta\source\repos\Read-CSV-File\obj\Debug\netcoreapp3.1\Read-CSV-File.genruntimeconfig.cache
